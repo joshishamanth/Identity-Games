@@ -30,7 +30,7 @@ CC BY-NC-SA 4.0 license inherited from EnTwine collection.
 ## Contact
 
 ### Authors
-Shamanth Joshi  - joshishamanth@gmail.com
+Shamanth Joshi - joshishamanth@gmail.com 
 Author GitHub Link: https://github.com/joshishamanth/Identity-Games
 Other links: Find some of my other beloved works at https://shamanthjoshi.super.site/
 
