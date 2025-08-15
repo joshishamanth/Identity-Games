@@ -31,7 +31,7 @@ CC BY-NC-SA 4.0 license inherited from EnTwine collection.
 
 ### Authors
 -> Shamanth Joshi - joshishamanth@gmail.com   
--> Author Original GitHub Link: https://github.com/joshishamanth/Identity-Games   
+-> Author's Original GitHub Link: https://github.com/joshishamanth/Identity-Games   
 -> Other links: Find some of my other beloved works at https://shamanthjoshi.super.site/   
 
 ----
