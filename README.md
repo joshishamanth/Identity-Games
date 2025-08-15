@@ -2,14 +2,14 @@
 
 # Identity Games
 
-Hi! Welcome! I'm glad you're here. In this small corner of the internet, I've uploaded a deeply personal, hilariously messy, and intensely powerful (for me atleast) game.
+Hi! Welcome! I'm glad you're here. In this small corner of the internet, I've uploaded a deeply personal, hilariously messy, and intensely powerful (for me at least) game.
  
 ## About
 Identity Games by Shamanth Joshi examines a student’s lived experience within a Brahmanical worldview in India to highlight how video games, through their narratives, mechanics, and design choices, preserve and perpetuate cis-heteronormative and Brahmani-patriarchal logics of masculinity, femininity, and gender identity. In this game, the player encounters a series of video games that the creator, Joshi, played at different points in life. Each encounter with a game presents the emotions and thoughts relevant to their sense of self at that time. The narrative arc in the Twine establishes the creator’s personal voice and positions their own reconsiderations of the games they played which led them to question, resist, and reject the normative logics of gender identity presented in these very games. Some of the beliefs challenged include: a) linking masculinity to games on sports and/or about violence; b) presenting masculine and feminine expressions on sliders with normatively chosen values and limits; and c) limiting queerness to sexual attraction only. In particular, the Twine challenges how the games addressed these assumptions without critique or subversion.
 
  
 ## Files
-Identity Games v2.0.html :an HTML file, created in Twine.
+Identity Games v2.0.html: an HTML file, created in Twine.
 
  
 ## Getting Started
